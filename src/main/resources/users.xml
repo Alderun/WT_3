@@ -5,7 +5,7 @@
    <int>1</int>
   </void>
   <void property="login">
-   <string>aleks</string>
+   <string>artem123</string>
   </void>
   <void property="password">
    <string>123456</string>
@@ -22,10 +22,10 @@
    <int>2</int>
   </void>
   <void property="login">
-   <string>lerochka</string>
+   <string>artem</string>
   </void>
   <void property="password">
-   <string>lerochka123</string>
+   <string>artem123</string>
   </void>
   <void property="role">
    <object idref="Role0"/>
